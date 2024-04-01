@@ -14,4 +14,5 @@ In this repo, we'll be fine-tuning a GPT-style model using peft, transformers, a
 * Prep the data
 * Create the create_prompt function
 * Set up PEFT LoRA
-* Train the model 
+* Train the model
+* Share the model
