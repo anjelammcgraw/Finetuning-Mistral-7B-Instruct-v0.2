@@ -1,6 +1,7 @@
 # 🤖 Efficient Fine-Tuning of Open-Source LLMS
 
-In this repo, we'll be fine-tuning a GPT-style model using peft, transformers, and bitsandbytes. We'll task fine-tune Mistral-7B-Instruct-v0.2 using QLoRA/LoRA. This project was done during week 3 of AI Makerspace's AI Engineering Bootcamp Cohort 1 (AIE1).
+In this repo, we'll be fine-tuning a GPT-style model using peft, transformers, and bitsandbytes. We'll task fine-tune Mistral-7B-Instruct-v0.2 using QLoRA/LoRA. 
+
 
 ### ⚙️The colab link to the code is found and (will also be included in this repo) [here.](https://colab.research.google.com/drive/1528lAqNcDy2K-9rSEBKD_xUGyd5bPRaf?usp=sharing)
 
